@@ -1,0 +1,65 @@
+ .u-section-1 {
+  background-image: url("images/HHH_CoverArt_Landscape.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1030px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 878px;
+  height: 536px;
+  margin: 68px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  width: 211px;
+  margin: 202px auto 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-weight: 700;
+  font-size: 1.875rem;
+  padding: 11px 43px 12px 42px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 849px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 554px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 440px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 444px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 330px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 322px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 208px;
+  }
+}
